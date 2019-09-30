@@ -1,0 +1,7 @@
+1. The average number of trials it took to break pre-image resistance based on 15 experiments when n = 2
+is 62,077.
+
+2. The average number of trials it took to break collision resistance based on 15 experiments when n = 2
+is 322.
+
+3. It is easier to find a collision using brute force.
