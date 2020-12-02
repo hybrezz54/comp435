@@ -21,3 +21,7 @@ def hammingdistance(hex1,hex2):
     # find hamming distance
     assert len(binary1) == len(binary2)
     return sum(c1 != c2 for c1, c2 in zip(binary1, binary2))
+
+
+if __name__ == '__main__':
+    print hammingdistance("00ab122", "bb")
